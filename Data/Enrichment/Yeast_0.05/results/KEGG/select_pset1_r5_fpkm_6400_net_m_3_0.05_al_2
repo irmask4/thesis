@@ -1,0 +1,4 @@
+Path_ID	Path_Description	Set_Size	Gene_Set
+sce03010	Ribosome	4	YDL061C,YDL133C-A,YDL184C,YKR057W
+sce00510	N-Glycan biosynthesis	1	YDL232W
+sce00513	Various types of N-glycan biosynthesis	1	YDL232W

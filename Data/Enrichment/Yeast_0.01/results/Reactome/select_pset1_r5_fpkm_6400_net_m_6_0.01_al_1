@@ -1,0 +1,13 @@
+Path_ID	Path_Description	Set_Size	Gene_Set
+R-SCE-72737	Cap-dependent Translation Initiation	5	YDL061C,YGR027C,YKL156W,YOL039W,YKR057W
+R-SCE-72613	Eukaryotic Translation Initiation	5	YOL039W,YKR057W,YKL156W,YGR027C,YDL061C
+R-SCE-72689	Formation of a pool of free 40S subunits	5	YKR057W,YDL061C,YOL039W,YGR027C,YKL156W
+R-SCE-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	5	YDL061C,YGR027C,YKR057W,YKL156W,YOL039W
+R-SCE-156827	L13a-mediated translational silencing of Ceruloplasmin expression	5	YKR057W,YDL061C,YGR027C,YKL156W,YOL039W
+R-SCE-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	5	YKL156W,YKR057W,YDL061C,YGR027C,YOL039W
+R-SCE-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	5	YKR057W,YDL061C,YGR027C,YKL156W,YOL039W
+R-SCE-927802	Nonsense-Mediated Decay (NMD)	5	YDL061C,YKL156W,YOL039W,YKR057W,YGR027C
+R-SCE-1799339	SRP-dependent cotranslational protein targeting to membrane	5	YGR027C,YKL156W,YKR057W,YDL061C,YOL039W
+R-SCE-72766	Translation	5	YGR027C,YDL061C,YOL039W,YKR057W,YKL156W
+R-SCE-72695	Formation of the ternary complex, and subsequently, the 43S complex	4	YDL061C,YGR027C,YKL156W,YKR057W
+R-SCE-72702	Ribosomal scanning and start codon recognition	4	YGR027C,YKL156W,YDL061C,YKR057W

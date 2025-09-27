@@ -1,0 +1,14 @@
+Path_ID	Path_Description	Set_Size	Gene_Set
+R-SCE-72737	Cap-dependent Translation Initiation	3	YHL015W,YKR057W,YDL061C
+R-SCE-72613	Eukaryotic Translation Initiation	3	YKR057W,YHL015W,YDL061C
+R-SCE-72689	Formation of a pool of free 40S subunits	3	YKR057W,YHL015W,YDL061C
+R-SCE-72695	Formation of the ternary complex, and subsequently, the 43S complex	3	YKR057W,YHL015W,YDL061C
+R-SCE-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	3	YKR057W,YHL015W,YDL061C
+R-SCE-156827	L13a-mediated translational silencing of Ceruloplasmin expression	3	YHL015W,YKR057W,YDL061C
+R-SCE-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	3	YKR057W,YDL061C,YHL015W
+R-SCE-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	3	YHL015W,YKR057W,YDL061C
+R-SCE-927802	Nonsense-Mediated Decay (NMD)	3	YKR057W,YHL015W,YDL061C
+R-SCE-72702	Ribosomal scanning and start codon recognition	3	YKR057W,YHL015W,YDL061C
+R-SCE-1799339	SRP-dependent cotranslational protein targeting to membrane	3	YDL061C,YHL015W,YKR057W
+R-SCE-72766	Translation	3	YKR057W,YDL061C,YHL015W
+R-SCE-8982491	Glycogen metabolism	1	YPR160W
