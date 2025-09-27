@@ -1,0 +1,670 @@
+Gene,Path_ID,Path_Description,Module,Source
+YGL030W,R-SCE-72737,Cap-dependent Translation Initiation,1,Reactome
+YLR388W,R-SCE-72737,Cap-dependent Translation Initiation,1,Reactome
+YKR057W,R-SCE-72737,Cap-dependent Translation Initiation,1,Reactome
+YOL039W,R-SCE-72737,Cap-dependent Translation Initiation,1,Reactome
+YDL061C,R-SCE-72737,Cap-dependent Translation Initiation,1,Reactome
+YDR500C,R-SCE-72737,Cap-dependent Translation Initiation,1,Reactome
+YLR264W,R-SCE-72737,Cap-dependent Translation Initiation,1,Reactome
+YJL136C,R-SCE-72737,Cap-dependent Translation Initiation,1,Reactome
+YLR185W,R-SCE-72737,Cap-dependent Translation Initiation,1,Reactome
+YLR185W,R-SCE-72613,Eukaryotic Translation Initiation,1,Reactome
+YDL061C,R-SCE-72613,Eukaryotic Translation Initiation,1,Reactome
+YLR388W,R-SCE-72613,Eukaryotic Translation Initiation,1,Reactome
+YDR500C,R-SCE-72613,Eukaryotic Translation Initiation,1,Reactome
+YKR057W,R-SCE-72613,Eukaryotic Translation Initiation,1,Reactome
+YLR264W,R-SCE-72613,Eukaryotic Translation Initiation,1,Reactome
+YOL039W,R-SCE-72613,Eukaryotic Translation Initiation,1,Reactome
+YJL136C,R-SCE-72613,Eukaryotic Translation Initiation,1,Reactome
+YGL030W,R-SCE-72613,Eukaryotic Translation Initiation,1,Reactome
+YDR500C,R-SCE-72689,Formation of a pool of free 40S subunits,1,Reactome
+YGL030W,R-SCE-72689,Formation of a pool of free 40S subunits,1,Reactome
+YLR185W,R-SCE-72689,Formation of a pool of free 40S subunits,1,Reactome
+YDL061C,R-SCE-72689,Formation of a pool of free 40S subunits,1,Reactome
+YLR388W,R-SCE-72689,Formation of a pool of free 40S subunits,1,Reactome
+YOL039W,R-SCE-72689,Formation of a pool of free 40S subunits,1,Reactome
+YKR057W,R-SCE-72689,Formation of a pool of free 40S subunits,1,Reactome
+YJL136C,R-SCE-72689,Formation of a pool of free 40S subunits,1,Reactome
+YLR264W,R-SCE-72689,Formation of a pool of free 40S subunits,1,Reactome
+YDR500C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,1,Reactome
+YLR264W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,1,Reactome
+YGL030W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,1,Reactome
+YJL136C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,1,Reactome
+YLR388W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,1,Reactome
+YKR057W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,1,Reactome
+YOL039W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,1,Reactome
+YDL061C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,1,Reactome
+YLR185W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,1,Reactome
+YDR500C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,1,Reactome
+YDL061C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,1,Reactome
+YLR185W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,1,Reactome
+YOL039W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,1,Reactome
+YKR057W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,1,Reactome
+YLR388W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,1,Reactome
+YGL030W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,1,Reactome
+YJL136C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,1,Reactome
+YLR264W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,1,Reactome
+YDR500C,R-SCE-392499,Metabolism of proteins,1,Reactome
+YDL061C,R-SCE-392499,Metabolism of proteins,1,Reactome
+YLR185W,R-SCE-392499,Metabolism of proteins,1,Reactome
+YOL039W,R-SCE-392499,Metabolism of proteins,1,Reactome
+YLR264W,R-SCE-392499,Metabolism of proteins,1,Reactome
+YKR057W,R-SCE-392499,Metabolism of proteins,1,Reactome
+YGL030W,R-SCE-392499,Metabolism of proteins,1,Reactome
+YJL136C,R-SCE-392499,Metabolism of proteins,1,Reactome
+YLR388W,R-SCE-392499,Metabolism of proteins,1,Reactome
+YLR388W,R-SCE-8953854,Metabolism of RNA,1,Reactome
+YKR057W,R-SCE-8953854,Metabolism of RNA,1,Reactome
+YLR264W,R-SCE-8953854,Metabolism of RNA,1,Reactome
+YOL039W,R-SCE-8953854,Metabolism of RNA,1,Reactome
+YDL061C,R-SCE-8953854,Metabolism of RNA,1,Reactome
+YGL030W,R-SCE-8953854,Metabolism of RNA,1,Reactome
+YDR500C,R-SCE-8953854,Metabolism of RNA,1,Reactome
+YJL136C,R-SCE-8953854,Metabolism of RNA,1,Reactome
+YLR185W,R-SCE-8953854,Metabolism of RNA,1,Reactome
+YKR057W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),1,Reactome
+YGL030W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),1,Reactome
+YDR500C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),1,Reactome
+YJL136C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),1,Reactome
+YLR264W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),1,Reactome
+YOL039W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),1,Reactome
+YLR388W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),1,Reactome
+YDL061C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),1,Reactome
+YLR185W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),1,Reactome
+YLR388W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),1,Reactome
+YKR057W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),1,Reactome
+YLR264W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),1,Reactome
+YOL039W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),1,Reactome
+YLR185W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),1,Reactome
+YDR500C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),1,Reactome
+YDL061C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),1,Reactome
+YJL136C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),1,Reactome
+YGL030W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),1,Reactome
+YDL061C,R-SCE-927802,Nonsense-Mediated Decay (NMD),1,Reactome
+YLR388W,R-SCE-927802,Nonsense-Mediated Decay (NMD),1,Reactome
+YLR264W,R-SCE-927802,Nonsense-Mediated Decay (NMD),1,Reactome
+YOL039W,R-SCE-927802,Nonsense-Mediated Decay (NMD),1,Reactome
+YLR185W,R-SCE-927802,Nonsense-Mediated Decay (NMD),1,Reactome
+YKR057W,R-SCE-927802,Nonsense-Mediated Decay (NMD),1,Reactome
+YGL030W,R-SCE-927802,Nonsense-Mediated Decay (NMD),1,Reactome
+YJL136C,R-SCE-927802,Nonsense-Mediated Decay (NMD),1,Reactome
+YDR500C,R-SCE-927802,Nonsense-Mediated Decay (NMD),1,Reactome
+YDR500C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,1,Reactome
+YGL030W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,1,Reactome
+YLR388W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,1,Reactome
+YLR185W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,1,Reactome
+YKR057W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,1,Reactome
+YLR264W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,1,Reactome
+YOL039W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,1,Reactome
+YDL061C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,1,Reactome
+YJL136C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,1,Reactome
+YLR388W,R-SCE-72766,Translation,1,Reactome
+YKR057W,R-SCE-72766,Translation,1,Reactome
+YGL030W,R-SCE-72766,Translation,1,Reactome
+YOL039W,R-SCE-72766,Translation,1,Reactome
+YDL061C,R-SCE-72766,Translation,1,Reactome
+YDR500C,R-SCE-72766,Translation,1,Reactome
+YLR264W,R-SCE-72766,Translation,1,Reactome
+YJL136C,R-SCE-72766,Translation,1,Reactome
+YLR185W,R-SCE-72766,Translation,1,Reactome
+YLR388W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",1,Reactome
+YLR264W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",1,Reactome
+YDL061C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",1,Reactome
+YKR057W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",1,Reactome
+YJL136C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",1,Reactome
+YLR264W,R-SCE-72702,Ribosomal scanning and start codon recognition,1,Reactome
+YJL136C,R-SCE-72702,Ribosomal scanning and start codon recognition,1,Reactome
+YLR388W,R-SCE-72702,Ribosomal scanning and start codon recognition,1,Reactome
+YKR057W,R-SCE-72702,Ribosomal scanning and start codon recognition,1,Reactome
+YDL061C,R-SCE-72702,Ribosomal scanning and start codon recognition,1,Reactome
+YDR500C,sce03010,Ribosome,1,KEGG
+YDL061C,sce03010,Ribosome,1,KEGG
+YJL136C,sce03010,Ribosome,1,KEGG
+YGL030W,sce03010,Ribosome,1,KEGG
+YIL052C,sce03010,Ribosome,1,KEGG
+YLR333C,sce03010,Ribosome,1,KEGG
+YKR057W,sce03010,Ribosome,1,KEGG
+YLR264W,sce03010,Ribosome,1,KEGG
+YOR167C,sce03010,Ribosome,1,KEGG
+YLR388W,sce03010,Ribosome,1,KEGG
+YOL039W,sce03010,Ribosome,1,KEGG
+YLR185W,sce03010,Ribosome,1,KEGG
+YDL232W,sce00510,N-Glycan biosynthesis,1,KEGG
+YPR183W,sce00510,N-Glycan biosynthesis,1,KEGG
+YJL136C,R-SCE-8953854,Metabolism of RNA,2,Reactome
+YLR264W,R-SCE-8953854,Metabolism of RNA,2,Reactome
+YOR210W,R-SCE-8953854,Metabolism of RNA,2,Reactome
+YOL005C,R-SCE-8953854,Metabolism of RNA,2,Reactome
+YDL061C,R-SCE-8953854,Metabolism of RNA,2,Reactome
+YJL191W,R-SCE-8953854,Metabolism of RNA,2,Reactome
+YLR388W,R-SCE-8953854,Metabolism of RNA,2,Reactome
+YLR185W,R-SCE-8953854,Metabolism of RNA,2,Reactome
+YKR057W,R-SCE-8953854,Metabolism of RNA,2,Reactome
+YDR500C,R-SCE-8953854,Metabolism of RNA,2,Reactome
+YKR057W,R-SCE-72766,Translation,2,Reactome
+YLR185W,R-SCE-72766,Translation,2,Reactome
+YNR046W,R-SCE-72766,Translation,2,Reactome
+YJL136C,R-SCE-72766,Translation,2,Reactome
+YLR388W,R-SCE-72766,Translation,2,Reactome
+YLR264W,R-SCE-72766,Translation,2,Reactome
+YDL061C,R-SCE-72766,Translation,2,Reactome
+YJL191W,R-SCE-72766,Translation,2,Reactome
+YDR500C,R-SCE-72766,Translation,2,Reactome
+YLR185W,R-SCE-72737,Cap-dependent Translation Initiation,2,Reactome
+YLR264W,R-SCE-72737,Cap-dependent Translation Initiation,2,Reactome
+YDL061C,R-SCE-72737,Cap-dependent Translation Initiation,2,Reactome
+YLR388W,R-SCE-72737,Cap-dependent Translation Initiation,2,Reactome
+YKR057W,R-SCE-72737,Cap-dependent Translation Initiation,2,Reactome
+YJL191W,R-SCE-72737,Cap-dependent Translation Initiation,2,Reactome
+YDR500C,R-SCE-72737,Cap-dependent Translation Initiation,2,Reactome
+YJL136C,R-SCE-72737,Cap-dependent Translation Initiation,2,Reactome
+YLR388W,R-SCE-72613,Eukaryotic Translation Initiation,2,Reactome
+YLR264W,R-SCE-72613,Eukaryotic Translation Initiation,2,Reactome
+YDL061C,R-SCE-72613,Eukaryotic Translation Initiation,2,Reactome
+YDR500C,R-SCE-72613,Eukaryotic Translation Initiation,2,Reactome
+YJL136C,R-SCE-72613,Eukaryotic Translation Initiation,2,Reactome
+YJL191W,R-SCE-72613,Eukaryotic Translation Initiation,2,Reactome
+YLR185W,R-SCE-72613,Eukaryotic Translation Initiation,2,Reactome
+YKR057W,R-SCE-72613,Eukaryotic Translation Initiation,2,Reactome
+YLR264W,R-SCE-72689,Formation of a pool of free 40S subunits,2,Reactome
+YDL061C,R-SCE-72689,Formation of a pool of free 40S subunits,2,Reactome
+YLR185W,R-SCE-72689,Formation of a pool of free 40S subunits,2,Reactome
+YJL191W,R-SCE-72689,Formation of a pool of free 40S subunits,2,Reactome
+YLR388W,R-SCE-72689,Formation of a pool of free 40S subunits,2,Reactome
+YDR500C,R-SCE-72689,Formation of a pool of free 40S subunits,2,Reactome
+YJL136C,R-SCE-72689,Formation of a pool of free 40S subunits,2,Reactome
+YKR057W,R-SCE-72689,Formation of a pool of free 40S subunits,2,Reactome
+YLR264W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,2,Reactome
+YLR185W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,2,Reactome
+YDL061C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,2,Reactome
+YLR388W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,2,Reactome
+YKR057W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,2,Reactome
+YJL191W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,2,Reactome
+YDR500C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,2,Reactome
+YJL136C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,2,Reactome
+YKR057W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,2,Reactome
+YLR388W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,2,Reactome
+YDL061C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,2,Reactome
+YJL136C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,2,Reactome
+YLR264W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,2,Reactome
+YJL191W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,2,Reactome
+YDR500C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,2,Reactome
+YLR185W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,2,Reactome
+YKR057W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),2,Reactome
+YJL136C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),2,Reactome
+YLR388W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),2,Reactome
+YJL191W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),2,Reactome
+YLR185W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),2,Reactome
+YDL061C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),2,Reactome
+YDR500C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),2,Reactome
+YLR264W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),2,Reactome
+YJL191W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),2,Reactome
+YLR264W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),2,Reactome
+YLR388W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),2,Reactome
+YKR057W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),2,Reactome
+YLR185W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),2,Reactome
+YDL061C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),2,Reactome
+YDR500C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),2,Reactome
+YJL136C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),2,Reactome
+YLR264W,R-SCE-927802,Nonsense-Mediated Decay (NMD),2,Reactome
+YJL136C,R-SCE-927802,Nonsense-Mediated Decay (NMD),2,Reactome
+YLR185W,R-SCE-927802,Nonsense-Mediated Decay (NMD),2,Reactome
+YJL191W,R-SCE-927802,Nonsense-Mediated Decay (NMD),2,Reactome
+YLR388W,R-SCE-927802,Nonsense-Mediated Decay (NMD),2,Reactome
+YDR500C,R-SCE-927802,Nonsense-Mediated Decay (NMD),2,Reactome
+YDL061C,R-SCE-927802,Nonsense-Mediated Decay (NMD),2,Reactome
+YKR057W,R-SCE-927802,Nonsense-Mediated Decay (NMD),2,Reactome
+YJL191W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,2,Reactome
+YLR185W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,2,Reactome
+YDL061C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,2,Reactome
+YJL136C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,2,Reactome
+YLR264W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,2,Reactome
+YDR500C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,2,Reactome
+YLR388W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,2,Reactome
+YKR057W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,2,Reactome
+YKR057W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",2,Reactome
+YLR388W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",2,Reactome
+YDL061C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",2,Reactome
+YJL136C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",2,Reactome
+YLR264W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",2,Reactome
+YJL191W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",2,Reactome
+YLR388W,R-SCE-72702,Ribosomal scanning and start codon recognition,2,Reactome
+YKR057W,R-SCE-72702,Ribosomal scanning and start codon recognition,2,Reactome
+YLR264W,R-SCE-72702,Ribosomal scanning and start codon recognition,2,Reactome
+YJL136C,R-SCE-72702,Ribosomal scanning and start codon recognition,2,Reactome
+YJL191W,R-SCE-72702,Ribosomal scanning and start codon recognition,2,Reactome
+YDL061C,R-SCE-72702,Ribosomal scanning and start codon recognition,2,Reactome
+YOL005C,R-SCE-113418,Formation of the Early Elongation Complex,2,Reactome
+YGR063C,R-SCE-113418,Formation of the Early Elongation Complex,2,Reactome
+YOR210W,R-SCE-113418,Formation of the Early Elongation Complex,2,Reactome
+YCR046C,sce03010,Ribosome,2,KEGG
+YDL061C,sce03010,Ribosome,2,KEGG
+YDR115W,sce03010,Ribosome,2,KEGG
+YJL136C,sce03010,Ribosome,2,KEGG
+YJL191W,sce03010,Ribosome,2,KEGG
+YOR167C,sce03010,Ribosome,2,KEGG
+YDR500C,sce03010,Ribosome,2,KEGG
+YLR388W,sce03010,Ribosome,2,KEGG
+YLR185W,sce03010,Ribosome,2,KEGG
+YLR264W,sce03010,Ribosome,2,KEGG
+YLR333C,sce03010,Ribosome,2,KEGG
+YIL052C,sce03010,Ribosome,2,KEGG
+YKR057W,sce03010,Ribosome,2,KEGG
+YPL079W,sce03010,Ribosome,2,KEGG
+YML009C,sce03010,Ribosome,2,KEGG
+YJR048W,sce00190,Oxidative phosphorylation,2,KEGG
+YDL067C,sce00190,Oxidative phosphorylation,2,KEGG
+YGR183C,sce00190,Oxidative phosphorylation,2,KEGG
+YPL271W,sce00190,Oxidative phosphorylation,2,KEGG
+YMR256C,sce00190,Oxidative phosphorylation,2,KEGG
+YOR210W,sce03020,RNA polymerase,2,KEGG
+YOL005C,sce03020,RNA polymerase,2,KEGG
+YDR156W,sce03020,RNA polymerase,2,KEGG
+YDL061C,R-SCE-72737,Cap-dependent Translation Initiation,3,Reactome
+YLR388W,R-SCE-72737,Cap-dependent Translation Initiation,3,Reactome
+YJL191W,R-SCE-72737,Cap-dependent Translation Initiation,3,Reactome
+YKR057W,R-SCE-72737,Cap-dependent Translation Initiation,3,Reactome
+YCR031C,R-SCE-72737,Cap-dependent Translation Initiation,3,Reactome
+YLR264W,R-SCE-72737,Cap-dependent Translation Initiation,3,Reactome
+YLR185W,R-SCE-72737,Cap-dependent Translation Initiation,3,Reactome
+YJL136C,R-SCE-72737,Cap-dependent Translation Initiation,3,Reactome
+YLR388W,R-SCE-72613,Eukaryotic Translation Initiation,3,Reactome
+YJL191W,R-SCE-72613,Eukaryotic Translation Initiation,3,Reactome
+YKR057W,R-SCE-72613,Eukaryotic Translation Initiation,3,Reactome
+YDL061C,R-SCE-72613,Eukaryotic Translation Initiation,3,Reactome
+YCR031C,R-SCE-72613,Eukaryotic Translation Initiation,3,Reactome
+YLR185W,R-SCE-72613,Eukaryotic Translation Initiation,3,Reactome
+YJL136C,R-SCE-72613,Eukaryotic Translation Initiation,3,Reactome
+YLR264W,R-SCE-72613,Eukaryotic Translation Initiation,3,Reactome
+YLR388W,R-SCE-72689,Formation of a pool of free 40S subunits,3,Reactome
+YLR264W,R-SCE-72689,Formation of a pool of free 40S subunits,3,Reactome
+YJL136C,R-SCE-72689,Formation of a pool of free 40S subunits,3,Reactome
+YLR185W,R-SCE-72689,Formation of a pool of free 40S subunits,3,Reactome
+YKR057W,R-SCE-72689,Formation of a pool of free 40S subunits,3,Reactome
+YCR031C,R-SCE-72689,Formation of a pool of free 40S subunits,3,Reactome
+YDL061C,R-SCE-72689,Formation of a pool of free 40S subunits,3,Reactome
+YJL191W,R-SCE-72689,Formation of a pool of free 40S subunits,3,Reactome
+YJL191W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,3,Reactome
+YKR057W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,3,Reactome
+YLR264W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,3,Reactome
+YLR388W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,3,Reactome
+YDL061C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,3,Reactome
+YLR185W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,3,Reactome
+YCR031C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,3,Reactome
+YJL136C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,3,Reactome
+YDL061C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,3,Reactome
+YJL136C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,3,Reactome
+YJL191W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,3,Reactome
+YLR388W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,3,Reactome
+YLR264W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,3,Reactome
+YLR185W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,3,Reactome
+YCR031C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,3,Reactome
+YKR057W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,3,Reactome
+YJL191W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),3,Reactome
+YLR388W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),3,Reactome
+YCR031C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),3,Reactome
+YKR057W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),3,Reactome
+YJL136C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),3,Reactome
+YDL061C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),3,Reactome
+YLR185W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),3,Reactome
+YLR264W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),3,Reactome
+YKR057W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),3,Reactome
+YLR264W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),3,Reactome
+YLR388W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),3,Reactome
+YDL061C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),3,Reactome
+YJL191W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),3,Reactome
+YLR185W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),3,Reactome
+YJL136C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),3,Reactome
+YCR031C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),3,Reactome
+YLR388W,R-SCE-927802,Nonsense-Mediated Decay (NMD),3,Reactome
+YLR264W,R-SCE-927802,Nonsense-Mediated Decay (NMD),3,Reactome
+YJL191W,R-SCE-927802,Nonsense-Mediated Decay (NMD),3,Reactome
+YDL061C,R-SCE-927802,Nonsense-Mediated Decay (NMD),3,Reactome
+YCR031C,R-SCE-927802,Nonsense-Mediated Decay (NMD),3,Reactome
+YLR185W,R-SCE-927802,Nonsense-Mediated Decay (NMD),3,Reactome
+YJL136C,R-SCE-927802,Nonsense-Mediated Decay (NMD),3,Reactome
+YKR057W,R-SCE-927802,Nonsense-Mediated Decay (NMD),3,Reactome
+YJL136C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,3,Reactome
+YLR388W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,3,Reactome
+YJL191W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,3,Reactome
+YLR264W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,3,Reactome
+YLR185W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,3,Reactome
+YKR057W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,3,Reactome
+YDL061C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,3,Reactome
+YCR031C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,3,Reactome
+YLR264W,R-SCE-72766,Translation,3,Reactome
+YJL191W,R-SCE-72766,Translation,3,Reactome
+YLR388W,R-SCE-72766,Translation,3,Reactome
+YLR185W,R-SCE-72766,Translation,3,Reactome
+YKR057W,R-SCE-72766,Translation,3,Reactome
+YJL136C,R-SCE-72766,Translation,3,Reactome
+YDL061C,R-SCE-72766,Translation,3,Reactome
+YCR031C,R-SCE-72766,Translation,3,Reactome
+YKR057W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",3,Reactome
+YDL061C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",3,Reactome
+YJL191W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",3,Reactome
+YLR388W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",3,Reactome
+YLR264W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",3,Reactome
+YCR031C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",3,Reactome
+YJL136C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",3,Reactome
+YJL191W,R-SCE-72702,Ribosomal scanning and start codon recognition,3,Reactome
+YLR264W,R-SCE-72702,Ribosomal scanning and start codon recognition,3,Reactome
+YCR031C,R-SCE-72702,Ribosomal scanning and start codon recognition,3,Reactome
+YLR388W,R-SCE-72702,Ribosomal scanning and start codon recognition,3,Reactome
+YJL136C,R-SCE-72702,Ribosomal scanning and start codon recognition,3,Reactome
+YKR057W,R-SCE-72702,Ribosomal scanning and start codon recognition,3,Reactome
+YDL061C,R-SCE-72702,Ribosomal scanning and start codon recognition,3,Reactome
+YPL252C,R-SCE-1362409,Mitochondrial iron-sulfur cluster biogenesis,3,Reactome
+YPL135W,R-SCE-1362409,Mitochondrial iron-sulfur cluster biogenesis,3,Reactome
+YDL061C,sce03010,Ribosome,3,KEGG
+YCR046C,sce03010,Ribosome,3,KEGG
+YDR115W,sce03010,Ribosome,3,KEGG
+YKR057W,sce03010,Ribosome,3,KEGG
+YDL184C,sce03010,Ribosome,3,KEGG
+YDR471W,sce03010,Ribosome,3,KEGG
+YLR333C,sce03010,Ribosome,3,KEGG
+YLR388W,sce03010,Ribosome,3,KEGG
+YCR031C,sce03010,Ribosome,3,KEGG
+YIL052C,sce03010,Ribosome,3,KEGG
+YML009C,sce03010,Ribosome,3,KEGG
+YJL191W,sce03010,Ribosome,3,KEGG
+YLR185W,sce03010,Ribosome,3,KEGG
+YJL136C,sce03010,Ribosome,3,KEGG
+YLR264W,sce03010,Ribosome,3,KEGG
+YLR395C,sce00190,Oxidative phosphorylation,3,KEGG
+YMR256C,sce00190,Oxidative phosphorylation,3,KEGG
+YPL271W,sce00190,Oxidative phosphorylation,3,KEGG
+YGR183C,sce00190,Oxidative phosphorylation,3,KEGG
+YFR033C,sce00190,Oxidative phosphorylation,3,KEGG
+YDL067C,sce00190,Oxidative phosphorylation,3,KEGG
+YLR388W,R-SCE-72737,Cap-dependent Translation Initiation,4,Reactome
+YDL061C,R-SCE-72737,Cap-dependent Translation Initiation,4,Reactome
+YJL136C,R-SCE-72737,Cap-dependent Translation Initiation,4,Reactome
+YLR185W,R-SCE-72737,Cap-dependent Translation Initiation,4,Reactome
+YKR057W,R-SCE-72737,Cap-dependent Translation Initiation,4,Reactome
+YLR185W,R-SCE-72613,Eukaryotic Translation Initiation,4,Reactome
+YLR388W,R-SCE-72613,Eukaryotic Translation Initiation,4,Reactome
+YKR057W,R-SCE-72613,Eukaryotic Translation Initiation,4,Reactome
+YDL061C,R-SCE-72613,Eukaryotic Translation Initiation,4,Reactome
+YJL136C,R-SCE-72613,Eukaryotic Translation Initiation,4,Reactome
+YDL061C,R-SCE-72689,Formation of a pool of free 40S subunits,4,Reactome
+YLR185W,R-SCE-72689,Formation of a pool of free 40S subunits,4,Reactome
+YKR057W,R-SCE-72689,Formation of a pool of free 40S subunits,4,Reactome
+YJL136C,R-SCE-72689,Formation of a pool of free 40S subunits,4,Reactome
+YLR388W,R-SCE-72689,Formation of a pool of free 40S subunits,4,Reactome
+YDL061C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,4,Reactome
+YKR057W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,4,Reactome
+YLR185W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,4,Reactome
+YLR388W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,4,Reactome
+YJL136C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,4,Reactome
+YDL061C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,4,Reactome
+YLR388W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,4,Reactome
+YLR185W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,4,Reactome
+YKR057W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,4,Reactome
+YJL136C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,4,Reactome
+YJL136C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),4,Reactome
+YLR185W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),4,Reactome
+YKR057W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),4,Reactome
+YDL061C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),4,Reactome
+YLR388W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),4,Reactome
+YLR388W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),4,Reactome
+YJL136C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),4,Reactome
+YLR185W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),4,Reactome
+YKR057W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),4,Reactome
+YDL061C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),4,Reactome
+YKR057W,R-SCE-927802,Nonsense-Mediated Decay (NMD),4,Reactome
+YDL061C,R-SCE-927802,Nonsense-Mediated Decay (NMD),4,Reactome
+YLR388W,R-SCE-927802,Nonsense-Mediated Decay (NMD),4,Reactome
+YLR185W,R-SCE-927802,Nonsense-Mediated Decay (NMD),4,Reactome
+YJL136C,R-SCE-927802,Nonsense-Mediated Decay (NMD),4,Reactome
+YDL061C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,4,Reactome
+YJL136C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,4,Reactome
+YLR185W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,4,Reactome
+YKR057W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,4,Reactome
+YLR388W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,4,Reactome
+YKR057W,R-SCE-72766,Translation,4,Reactome
+YLR388W,R-SCE-72766,Translation,4,Reactome
+YDL061C,R-SCE-72766,Translation,4,Reactome
+YJL136C,R-SCE-72766,Translation,4,Reactome
+YLR185W,R-SCE-72766,Translation,4,Reactome
+YDL061C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",4,Reactome
+YKR057W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",4,Reactome
+YLR388W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",4,Reactome
+YJL136C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",4,Reactome
+YJL136C,R-SCE-72702,Ribosomal scanning and start codon recognition,4,Reactome
+YKR057W,R-SCE-72702,Ribosomal scanning and start codon recognition,4,Reactome
+YDL061C,R-SCE-72702,Ribosomal scanning and start codon recognition,4,Reactome
+YLR388W,R-SCE-72702,Ribosomal scanning and start codon recognition,4,Reactome
+YPL252C,R-SCE-1362409,Mitochondrial iron-sulfur cluster biogenesis,4,Reactome
+YPL135W,R-SCE-1362409,Mitochondrial iron-sulfur cluster biogenesis,4,Reactome
+YFR033C,R-SCE-611105,Respiratory electron transport,4,Reactome
+YGR183C,R-SCE-611105,Respiratory electron transport,4,Reactome
+YFR033C,R-SCE-163200,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",4,Reactome
+YGR183C,R-SCE-163200,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",4,Reactome
+YDL061C,sce03010,Ribosome,4,KEGG
+YDR115W,sce03010,Ribosome,4,KEGG
+YLR185W,sce03010,Ribosome,4,KEGG
+YDL184C,sce03010,Ribosome,4,KEGG
+YJL136C,sce03010,Ribosome,4,KEGG
+YKR057W,sce03010,Ribosome,4,KEGG
+YIL052C,sce03010,Ribosome,4,KEGG
+YLR388W,sce03010,Ribosome,4,KEGG
+YLR333C,sce03010,Ribosome,4,KEGG
+YFR033C,sce00190,Oxidative phosphorylation,4,KEGG
+YDL067C,sce00190,Oxidative phosphorylation,4,KEGG
+YPL271W,sce00190,Oxidative phosphorylation,4,KEGG
+YGR183C,sce00190,Oxidative phosphorylation,4,KEGG
+YDL061C,R-SCE-8953854,Metabolism of RNA,5,Reactome
+YLR388W,R-SCE-8953854,Metabolism of RNA,5,Reactome
+YOL039W,R-SCE-8953854,Metabolism of RNA,5,Reactome
+YLR185W,R-SCE-8953854,Metabolism of RNA,5,Reactome
+YOR210W,R-SCE-8953854,Metabolism of RNA,5,Reactome
+YKR057W,R-SCE-8953854,Metabolism of RNA,5,Reactome
+YLR264W,R-SCE-8953854,Metabolism of RNA,5,Reactome
+YGL030W,R-SCE-8953854,Metabolism of RNA,5,Reactome
+YLR388W,R-SCE-72737,Cap-dependent Translation Initiation,5,Reactome
+YKR057W,R-SCE-72737,Cap-dependent Translation Initiation,5,Reactome
+YLR185W,R-SCE-72737,Cap-dependent Translation Initiation,5,Reactome
+YGL030W,R-SCE-72737,Cap-dependent Translation Initiation,5,Reactome
+YLR264W,R-SCE-72737,Cap-dependent Translation Initiation,5,Reactome
+YOL039W,R-SCE-72737,Cap-dependent Translation Initiation,5,Reactome
+YDL061C,R-SCE-72737,Cap-dependent Translation Initiation,5,Reactome
+YLR388W,R-SCE-72613,Eukaryotic Translation Initiation,5,Reactome
+YLR185W,R-SCE-72613,Eukaryotic Translation Initiation,5,Reactome
+YDL061C,R-SCE-72613,Eukaryotic Translation Initiation,5,Reactome
+YKR057W,R-SCE-72613,Eukaryotic Translation Initiation,5,Reactome
+YLR264W,R-SCE-72613,Eukaryotic Translation Initiation,5,Reactome
+YOL039W,R-SCE-72613,Eukaryotic Translation Initiation,5,Reactome
+YGL030W,R-SCE-72613,Eukaryotic Translation Initiation,5,Reactome
+YDL061C,R-SCE-72689,Formation of a pool of free 40S subunits,5,Reactome
+YLR388W,R-SCE-72689,Formation of a pool of free 40S subunits,5,Reactome
+YLR185W,R-SCE-72689,Formation of a pool of free 40S subunits,5,Reactome
+YGL030W,R-SCE-72689,Formation of a pool of free 40S subunits,5,Reactome
+YKR057W,R-SCE-72689,Formation of a pool of free 40S subunits,5,Reactome
+YLR264W,R-SCE-72689,Formation of a pool of free 40S subunits,5,Reactome
+YOL039W,R-SCE-72689,Formation of a pool of free 40S subunits,5,Reactome
+YGL030W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,5,Reactome
+YLR264W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,5,Reactome
+YLR185W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,5,Reactome
+YLR388W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,5,Reactome
+YKR057W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,5,Reactome
+YOL039W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,5,Reactome
+YDL061C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,5,Reactome
+YLR388W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,5,Reactome
+YKR057W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,5,Reactome
+YLR185W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,5,Reactome
+YGL030W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,5,Reactome
+YLR264W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,5,Reactome
+YDL061C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,5,Reactome
+YOL039W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,5,Reactome
+YOL039W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),5,Reactome
+YDL061C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),5,Reactome
+YKR057W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),5,Reactome
+YLR264W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),5,Reactome
+YLR185W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),5,Reactome
+YLR388W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),5,Reactome
+YGL030W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),5,Reactome
+YDL061C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),5,Reactome
+YLR388W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),5,Reactome
+YOL039W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),5,Reactome
+YLR185W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),5,Reactome
+YKR057W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),5,Reactome
+YLR264W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),5,Reactome
+YGL030W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),5,Reactome
+YOL039W,R-SCE-927802,Nonsense-Mediated Decay (NMD),5,Reactome
+YDL061C,R-SCE-927802,Nonsense-Mediated Decay (NMD),5,Reactome
+YLR388W,R-SCE-927802,Nonsense-Mediated Decay (NMD),5,Reactome
+YLR264W,R-SCE-927802,Nonsense-Mediated Decay (NMD),5,Reactome
+YLR185W,R-SCE-927802,Nonsense-Mediated Decay (NMD),5,Reactome
+YKR057W,R-SCE-927802,Nonsense-Mediated Decay (NMD),5,Reactome
+YGL030W,R-SCE-927802,Nonsense-Mediated Decay (NMD),5,Reactome
+YLR264W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,5,Reactome
+YLR185W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,5,Reactome
+YGL030W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,5,Reactome
+YKR057W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,5,Reactome
+YOL039W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,5,Reactome
+YLR388W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,5,Reactome
+YDL061C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,5,Reactome
+YKR057W,R-SCE-72766,Translation,5,Reactome
+YGL030W,R-SCE-72766,Translation,5,Reactome
+YLR264W,R-SCE-72766,Translation,5,Reactome
+YLR388W,R-SCE-72766,Translation,5,Reactome
+YOL039W,R-SCE-72766,Translation,5,Reactome
+YDL061C,R-SCE-72766,Translation,5,Reactome
+YLR185W,R-SCE-72766,Translation,5,Reactome
+YLR264W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",5,Reactome
+YDL061C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",5,Reactome
+YLR388W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",5,Reactome
+YKR057W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",5,Reactome
+YLR388W,R-SCE-72702,Ribosomal scanning and start codon recognition,5,Reactome
+YKR057W,R-SCE-72702,Ribosomal scanning and start codon recognition,5,Reactome
+YLR264W,R-SCE-72702,Ribosomal scanning and start codon recognition,5,Reactome
+YDL061C,R-SCE-72702,Ribosomal scanning and start codon recognition,5,Reactome
+YGL030W,sce03010,Ribosome,5,KEGG
+YLR388W,sce03010,Ribosome,5,KEGG
+YLR264W,sce03010,Ribosome,5,KEGG
+YOL039W,sce03010,Ribosome,5,KEGG
+YOR167C,sce03010,Ribosome,5,KEGG
+YKR057W,sce03010,Ribosome,5,KEGG
+YIL052C,sce03010,Ribosome,5,KEGG
+YDL061C,sce03010,Ribosome,5,KEGG
+YLR185W,sce03010,Ribosome,5,KEGG
+YDR377W,sce00190,Oxidative phosphorylation,5,KEGG
+YMR256C,sce00190,Oxidative phosphorylation,5,KEGG
+YDL067C,sce00190,Oxidative phosphorylation,5,KEGG
+YPL271W,sce00190,Oxidative phosphorylation,5,KEGG
+YLL009C,sce00190,Oxidative phosphorylation,5,KEGG
+YDL061C,R-SCE-72737,Cap-dependent Translation Initiation,6,Reactome
+YGR027C,R-SCE-72737,Cap-dependent Translation Initiation,6,Reactome
+YKL156W,R-SCE-72737,Cap-dependent Translation Initiation,6,Reactome
+YOL039W,R-SCE-72737,Cap-dependent Translation Initiation,6,Reactome
+YKR057W,R-SCE-72737,Cap-dependent Translation Initiation,6,Reactome
+YOL039W,R-SCE-72613,Eukaryotic Translation Initiation,6,Reactome
+YKR057W,R-SCE-72613,Eukaryotic Translation Initiation,6,Reactome
+YKL156W,R-SCE-72613,Eukaryotic Translation Initiation,6,Reactome
+YGR027C,R-SCE-72613,Eukaryotic Translation Initiation,6,Reactome
+YDL061C,R-SCE-72613,Eukaryotic Translation Initiation,6,Reactome
+YKR057W,R-SCE-72689,Formation of a pool of free 40S subunits,6,Reactome
+YDL061C,R-SCE-72689,Formation of a pool of free 40S subunits,6,Reactome
+YOL039W,R-SCE-72689,Formation of a pool of free 40S subunits,6,Reactome
+YGR027C,R-SCE-72689,Formation of a pool of free 40S subunits,6,Reactome
+YKL156W,R-SCE-72689,Formation of a pool of free 40S subunits,6,Reactome
+YDL061C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,6,Reactome
+YGR027C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,6,Reactome
+YKR057W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,6,Reactome
+YKL156W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,6,Reactome
+YOL039W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,6,Reactome
+YKR057W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,6,Reactome
+YDL061C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,6,Reactome
+YGR027C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,6,Reactome
+YKL156W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,6,Reactome
+YOL039W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,6,Reactome
+YKL156W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),6,Reactome
+YKR057W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),6,Reactome
+YDL061C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),6,Reactome
+YGR027C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),6,Reactome
+YOL039W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),6,Reactome
+YKR057W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),6,Reactome
+YDL061C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),6,Reactome
+YGR027C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),6,Reactome
+YKL156W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),6,Reactome
+YOL039W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),6,Reactome
+YDL061C,R-SCE-927802,Nonsense-Mediated Decay (NMD),6,Reactome
+YKL156W,R-SCE-927802,Nonsense-Mediated Decay (NMD),6,Reactome
+YOL039W,R-SCE-927802,Nonsense-Mediated Decay (NMD),6,Reactome
+YKR057W,R-SCE-927802,Nonsense-Mediated Decay (NMD),6,Reactome
+YGR027C,R-SCE-927802,Nonsense-Mediated Decay (NMD),6,Reactome
+YGR027C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,6,Reactome
+YKL156W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,6,Reactome
+YKR057W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,6,Reactome
+YDL061C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,6,Reactome
+YOL039W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,6,Reactome
+YGR027C,R-SCE-72766,Translation,6,Reactome
+YDL061C,R-SCE-72766,Translation,6,Reactome
+YOL039W,R-SCE-72766,Translation,6,Reactome
+YKR057W,R-SCE-72766,Translation,6,Reactome
+YKL156W,R-SCE-72766,Translation,6,Reactome
+YDL061C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",6,Reactome
+YGR027C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",6,Reactome
+YKL156W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",6,Reactome
+YKR057W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",6,Reactome
+YGR027C,R-SCE-72702,Ribosomal scanning and start codon recognition,6,Reactome
+YKL156W,R-SCE-72702,Ribosomal scanning and start codon recognition,6,Reactome
+YDL061C,R-SCE-72702,Ribosomal scanning and start codon recognition,6,Reactome
+YKR057W,R-SCE-72702,Ribosomal scanning and start codon recognition,6,Reactome
+YPL234C,sce00190,Oxidative phosphorylation,6,KEGG
+YLL009C,sce00190,Oxidative phosphorylation,6,KEGG
+YLR295C,sce00190,Oxidative phosphorylation,6,KEGG
+YPL271W,sce00190,Oxidative phosphorylation,6,KEGG
+YDR377W,sce00190,Oxidative phosphorylation,6,KEGG
+YMR256C,sce00190,Oxidative phosphorylation,6,KEGG
+YDL061C,sce03010,Ribosome,6,KEGG
+YGR027C,sce03010,Ribosome,6,KEGG
+YOL039W,sce03010,Ribosome,6,KEGG
+YKL156W,sce03010,Ribosome,6,KEGG
+YKR057W,sce03010,Ribosome,6,KEGG
+YLR264W,R-SCE-72737,Cap-dependent Translation Initiation,7,Reactome
+YKR057W,R-SCE-72737,Cap-dependent Translation Initiation,7,Reactome
+YDL061C,R-SCE-72737,Cap-dependent Translation Initiation,7,Reactome
+YLR264W,R-SCE-72613,Eukaryotic Translation Initiation,7,Reactome
+YKR057W,R-SCE-72613,Eukaryotic Translation Initiation,7,Reactome
+YDL061C,R-SCE-72613,Eukaryotic Translation Initiation,7,Reactome
+YKR057W,R-SCE-72689,Formation of a pool of free 40S subunits,7,Reactome
+YDL061C,R-SCE-72689,Formation of a pool of free 40S subunits,7,Reactome
+YLR264W,R-SCE-72689,Formation of a pool of free 40S subunits,7,Reactome
+YDL061C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",7,Reactome
+YLR264W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",7,Reactome
+YKR057W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",7,Reactome
+YLR264W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,7,Reactome
+YKR057W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,7,Reactome
+YDL061C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,7,Reactome
+YKR057W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,7,Reactome
+YDL061C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,7,Reactome
+YLR264W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,7,Reactome
+YDL061C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),7,Reactome
+YKR057W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),7,Reactome
+YLR264W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),7,Reactome
+YLR264W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),7,Reactome
+YKR057W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),7,Reactome
+YDL061C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),7,Reactome
+YLR264W,R-SCE-927802,Nonsense-Mediated Decay (NMD),7,Reactome
+YKR057W,R-SCE-927802,Nonsense-Mediated Decay (NMD),7,Reactome
+YDL061C,R-SCE-927802,Nonsense-Mediated Decay (NMD),7,Reactome
+YLR264W,R-SCE-72702,Ribosomal scanning and start codon recognition,7,Reactome
+YKR057W,R-SCE-72702,Ribosomal scanning and start codon recognition,7,Reactome
+YDL061C,R-SCE-72702,Ribosomal scanning and start codon recognition,7,Reactome
+YDL061C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,7,Reactome
+YLR264W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,7,Reactome
+YKR057W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,7,Reactome
+YDL061C,R-SCE-72766,Translation,7,Reactome
+YLR264W,R-SCE-72766,Translation,7,Reactome
+YKR057W,R-SCE-72766,Translation,7,Reactome
+YDL067C,sce00190,Oxidative phosphorylation,7,KEGG
+YLL009C,sce00190,Oxidative phosphorylation,7,KEGG
+YDR377W,sce00190,Oxidative phosphorylation,7,KEGG
+YPL271W,sce00190,Oxidative phosphorylation,7,KEGG
+YMR256C,sce00190,Oxidative phosphorylation,7,KEGG
+YDL061C,sce03010,Ribosome,7,KEGG
+YKR057W,sce03010,Ribosome,7,KEGG
+YLR264W,sce03010,Ribosome,7,KEGG
+YML009C,sce03010,Ribosome,7,KEGG

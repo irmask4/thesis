@@ -1,0 +1,94 @@
+Gene,Path_ID,Path_Description,Module,Source
+YDL061C,R-SCE-72737,Cap-dependent Translation Initiation,2,Reactome
+YKR057W,R-SCE-72737,Cap-dependent Translation Initiation,2,Reactome
+YKR057W,R-SCE-72613,Eukaryotic Translation Initiation,2,Reactome
+YDL061C,R-SCE-72613,Eukaryotic Translation Initiation,2,Reactome
+YDL061C,R-SCE-72689,Formation of a pool of free 40S subunits,2,Reactome
+YKR057W,R-SCE-72689,Formation of a pool of free 40S subunits,2,Reactome
+YDL061C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",2,Reactome
+YKR057W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",2,Reactome
+YKR057W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,2,Reactome
+YDL061C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,2,Reactome
+YDL061C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,2,Reactome
+YKR057W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,2,Reactome
+YDL061C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),2,Reactome
+YKR057W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),2,Reactome
+YDL061C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),2,Reactome
+YKR057W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),2,Reactome
+YKR057W,R-SCE-927802,Nonsense-Mediated Decay (NMD),2,Reactome
+YDL061C,R-SCE-927802,Nonsense-Mediated Decay (NMD),2,Reactome
+YKR057W,R-SCE-72702,Ribosomal scanning and start codon recognition,2,Reactome
+YDL061C,R-SCE-72702,Ribosomal scanning and start codon recognition,2,Reactome
+YDL061C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,2,Reactome
+YKR057W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,2,Reactome
+YDL061C,R-SCE-72766,Translation,2,Reactome
+YKR057W,R-SCE-72766,Translation,2,Reactome
+YDL061C,sce03010,Ribosome,2,KEGG
+YDL133C-A,sce03010,Ribosome,2,KEGG
+YKR057W,sce03010,Ribosome,2,KEGG
+YDL232W,sce00510,N-Glycan biosynthesis,2,KEGG
+YDL232W,sce00513,Various types of N-glycan biosynthesis,2,KEGG
+YDL061C,R-SCE-72737,Cap-dependent Translation Initiation,3,Reactome
+YKR057W,R-SCE-72737,Cap-dependent Translation Initiation,3,Reactome
+YKR057W,R-SCE-72613,Eukaryotic Translation Initiation,3,Reactome
+YDL061C,R-SCE-72613,Eukaryotic Translation Initiation,3,Reactome
+YDL061C,R-SCE-72689,Formation of a pool of free 40S subunits,3,Reactome
+YKR057W,R-SCE-72689,Formation of a pool of free 40S subunits,3,Reactome
+YDL061C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",3,Reactome
+YKR057W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",3,Reactome
+YKR057W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,3,Reactome
+YDL061C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,3,Reactome
+YDL061C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,3,Reactome
+YKR057W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,3,Reactome
+YDL061C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),3,Reactome
+YKR057W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),3,Reactome
+YDL061C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),3,Reactome
+YKR057W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),3,Reactome
+YKR057W,R-SCE-927802,Nonsense-Mediated Decay (NMD),3,Reactome
+YDL061C,R-SCE-927802,Nonsense-Mediated Decay (NMD),3,Reactome
+YKR057W,R-SCE-72702,Ribosomal scanning and start codon recognition,3,Reactome
+YDL061C,R-SCE-72702,Ribosomal scanning and start codon recognition,3,Reactome
+YDL061C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,3,Reactome
+YKR057W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,3,Reactome
+YDL061C,R-SCE-72766,Translation,3,Reactome
+YKR057W,R-SCE-72766,Translation,3,Reactome
+YDL061C,sce03010,Ribosome,3,KEGG
+YDL133C-A,sce03010,Ribosome,3,KEGG
+YDL184C,sce03010,Ribosome,3,KEGG
+YKR057W,sce03010,Ribosome,3,KEGG
+YDL232W,sce00510,N-Glycan biosynthesis,3,KEGG
+YDL232W,sce00513,Various types of N-glycan biosynthesis,3,KEGG
+YDL061C,R-SCE-72737,Cap-dependent Translation Initiation,4,Reactome
+YKR057W,R-SCE-72737,Cap-dependent Translation Initiation,4,Reactome
+YKR057W,R-SCE-72613,Eukaryotic Translation Initiation,4,Reactome
+YDL061C,R-SCE-72613,Eukaryotic Translation Initiation,4,Reactome
+YDL061C,R-SCE-72689,Formation of a pool of free 40S subunits,4,Reactome
+YKR057W,R-SCE-72689,Formation of a pool of free 40S subunits,4,Reactome
+YDL061C,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",4,Reactome
+YKR057W,R-SCE-72695,"Formation of the ternary complex, and subsequently, the 43S complex",4,Reactome
+YKR057W,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,4,Reactome
+YDL061C,R-SCE-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,4,Reactome
+YDL061C,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,4,Reactome
+YKR057W,R-SCE-156827,L13a-mediated translational silencing of Ceruloplasmin expression,4,Reactome
+YDL061C,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),4,Reactome
+YKR057W,R-SCE-975957,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),4,Reactome
+YDL061C,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),4,Reactome
+YKR057W,R-SCE-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),4,Reactome
+YKR057W,R-SCE-927802,Nonsense-Mediated Decay (NMD),4,Reactome
+YDL061C,R-SCE-927802,Nonsense-Mediated Decay (NMD),4,Reactome
+YKR057W,R-SCE-72702,Ribosomal scanning and start codon recognition,4,Reactome
+YDL061C,R-SCE-72702,Ribosomal scanning and start codon recognition,4,Reactome
+YDL061C,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,4,Reactome
+YKR057W,R-SCE-1799339,SRP-dependent cotranslational protein targeting to membrane,4,Reactome
+YDL061C,R-SCE-72766,Translation,4,Reactome
+YKR057W,R-SCE-72766,Translation,4,Reactome
+YDL061C,sce03010,Ribosome,4,KEGG
+YDL133C-A,sce03010,Ribosome,4,KEGG
+YDL184C,sce03010,Ribosome,4,KEGG
+YKR057W,sce03010,Ribosome,4,KEGG
+YDL232W,sce00510,N-Glycan biosynthesis,4,KEGG
+YDL232W,sce00513,Various types of N-glycan biosynthesis,4,KEGG
+YDL232W,sce00510,N-Glycan biosynthesis,6,KEGG
+YDL232W,sce00513,Various types of N-glycan biosynthesis,6,KEGG
+YDL232W,sce00510,N-Glycan biosynthesis,7,KEGG
+YDL232W,sce00513,Various types of N-glycan biosynthesis,7,KEGG
